@@ -7,18 +7,20 @@ Tools
   - GIT
   
 Technical skills
-  - 
+  
 Certificates
   - ISTQB (No 12015/FLCT/2019)
-  - 
+  
 Courses
+
 Books
   - Zawód tester. Od decyzji do zdobycia doświadczenia.  Radosław Smilgin 
-  - 
+  
 Facebook groups
   - https://www.facebook.com/groups/angielskiwpracy
   - https://www.facebook.com/groups/2133784529983322
   - https://www.facebook.com/groups/246926649684135
-  - 
+  
 Sample cases and test scenarios
+
 My projects
