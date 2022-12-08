@@ -4,8 +4,8 @@ For many years I worked as an emergency paramedic, developing my soft skills and
 
 My projects
 Sample cases and test scenarios
+  - 
   - https://github.com/AnnaKowa1984/my-Python-project--creating_a_password/blob/master/password.py 
-  
 
 Tools
   - GIT
@@ -24,6 +24,8 @@ Certificates
   - ISTQB (No 12015/FLCT/2019)
   
 Training
+  - Software tester for mobile and server applications, Postgraduate studies
+  - Fundamentals of manual software testing, Udemy course
 
 Facebook groups
   - https://www.facebook.com/groups/angielskiwpracy
