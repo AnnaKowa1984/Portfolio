@@ -4,6 +4,7 @@ For many years I worked as an emergency paramedic, developing my soft skills and
 
 My projects
 Sample cases and test scenarios
+  - https://github.com/AnnaKowa1984/Bug_reporting_kalkulatorkalorii.net
   - https://github.com/AnnaKowa1984/Bugs_reporting_WRM_app/blob/main/ZGLOSZENIE%20BLEDU%20WRM.docx
   - https://github.com/AnnaKowa1984/my-Python-project--creating_a_password/blob/master/password.py 
 
