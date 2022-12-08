@@ -9,8 +9,16 @@ Sample cases and test scenarios
 
 Tools
   - GIT
+  - SQL
+  - qTest
+  - JIRA
+  - Linux
   
 Technical skills
+  - Preparation of test data
+  - Create manual test cases
+  - Creating test scenarios
+  - Bugs reporting
   
 Certificates
   - ISTQB (No 12015/FLCT/2019)
